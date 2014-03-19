@@ -1,0 +1,381 @@
+*** Sahifa Changelog ***
+
+-------------------------------------------------------------------------
+
+Version 2.5.0 - 11-01-2013
+
+- Added : Next/prev to lightbox for [gallery] shortcode .
+- Added : Character sets option to support Cyrillic , Greek fonts .
+- Added : supports http://youtu.be videos in post head .
+- Added : supports http://youtu.be videos in [video] shortcode .
+- Added : supports dailymotion videos in post head .
+- Added : supports dailymotion videos in [video] shortcode .
+- Added : Full width slider in post head for full width posts .
+- Added : Drag and Drop to sort categories in Categories Tabs Box .
+- Added : option to open links in social counter widget in a new tab .
+- Added : Croatian language .
+- Improved : Videos width and height ratio .
+- Improved : Remove auto capitalize letters .
+- Improved : Set Max width for Logo image .
+- Fixed : Reset settings bug .
+- Fixed : Scrolling box spacing issue with RTL .
+- Updated : French language files .
+
+Files updated
+- style.css
+- RTL.css
+- js/tie-scripts.js
+- functions/theme-functions.php
+- functions/common-scripts.php
+- includes/post-head.php
+- includes/widgets/widget-counter.php
+- languages/fr_FR.po
+- languages/fr_FR.mo
+- panel/ (folder)
+
+Files Added:
+- languages/hr_HR.po
+- languages/hr_HR.mo
+
+
+-------------------------------------------------------------------------
+
+Version 2.4.2 - 04-01-2013
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- includes/post-head.php
+- panel/mpanel-functions.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.4.1 - 01-01-2013
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- header.php
+- RTL.css
+- category.php
+- author.php
+- functions/theme-functions.php
+- includes/post-head.php
+
+-------------------------------------------------------------------------
+
+Version 2.4.0 - 22-12-2012
+- Added : 300*600 ADV widget .
+- Added : Youtube channel counter .
+- Added : viemeo channel counter .
+- Added : dribbble counter .
+- Added : LightBox for WP [Gallery] shortcode .
+- Added : [LightBox] shortcode .
+- Added : Schema SEO Rich Snippet Breadcrumbs Microdata  .
+- Improved : performance and speed of the theme .
+- Improved : Facebook Counter .
+- Improved : Schema SEO Rich Snippet Review Microdata
+- Improved : SEO issues
+- Fixed : Social icons path bug .
+- Fixed : Author Feed URL bug  .
+- Fixed : Typography bug with some fonts .
+- Fixed : Slider directions bug in RTL blogs .
+
+Files updated
+- style.css
+- author.php
+- single.php
+- header.php
+- RTl.css
+- js/tie-scripts.js
+- panel/mpanel-ui.php
+- panel/js/tie.js
+- panel/mpanel-functions.php
+- panel/shortcodes folder
+- functions/theme-functions.php
+- functions/common-scripts.php
+- includes/widgets/widget-counter.php
+- includes/widgets/widget-ads.php
+- includes/widgets/widget-twitter.php
+- includes/breadcrumbs.php
+
+Files Added :
+- images/prettyPhoto/
+
+-------------------------------------------------------------------------
+
+Version 2.3.0 - 12-11-2012
+- Added : Points style in the review system .
+- Added : [review] shortcode to display the review box in any position in the post .
+- Added : Post Review widget .
+- Added : Sticky Navigation menu .
+- Added : Option to Disable the theme Responsiveness.
+- Added : Pinterest Style for widgets in responsive action .
+- Added : Post-Head module in blog page template to display slider , video , etc .
+- Added : Styling Option for main content box background .
+- Added : show the short summary when mouse over on the stars .
+- Added : show Sahifa in top bar for adminstartors only .
+- Added : combatablity with some Ad plugins .
+- Improved : responsive issues .
+- Improved : Search widget style in the footer .
+- Improved : The default favicon .
+- Fixed : Problem in categories slider .
+- Fixed : Missed some microdata attributes in the review posts .
+- Fixed : Image Caption alignment bug .
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+Version 2.2.0 - 26-10-2012
+- Added : Reviews System .
+- Improved : Styling Options.
+- Improved : Typography Options.
+- Improved : Responsive issues .
+- Fixed : Fetal error caused by Feedburner Api .
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+Version 2.1.0 - 24-10-2012
+- Added : Ability for adding a custom text with link in breaking news module .
+- Improved : Widgets Titles when it is empty .
+- Improved : RTL styling issues .
+- Fixed : Author icons bug in author page template .
+- Fixed : Responsive issues .
+
+Files updated
+- styles.css
+- css/page-template.css
+- template-authors.php
+- functions/theme-functions.php
+- rtl.css
+- includes/breaking-news.php
+- panel/js/tie.js
+- panel/mpanel-ui.php
+- panel/mpanel-functions.php
+- panel/style.css
+
+-------------------------------------------------------------------------
+
+Version 2.0.1 - 19-10-2012
+- Fixed : IE Bug .
+
+Files updated
+- style.css
+- header.php
+
+-------------------------------------------------------------------------
+
+Version 2.0.0 - 18-10-2012
+- Added : Custom sliders for categories .
+- Added : custom Sidebars for categories pages .
+- Added : New ticker animation in breaking news module .
+- Added : Custom css fields to make changes depend on the device .
+- Added : Ability for adding news boxs with different styles in homepage .
+- Improved : Seo in Header .
+- Improved : Audio shortcode .
+- Improved : Galleries style .
+- Improved : Scroll to top function .
+- Improved : Responsive issues .
+- Improved : Reset settings button .
+- Improved : Og:image to get video image from youtube/viemo if the post hasn't a featured image .
+- Fixed : Twitter Counter bug .
+- Fixed : category feed url .
+
+Files updated
+- style.css
+- header.php
+- sidebar.php
+- category.php
+- footer.php
+- panel/mpanel-ui.php
+- panel/shortcodes/shortcode.php
+- panel/style.css
+- panel/js/tie.js
+- js/tie-scripts.js
+- functions/theme-functions.php
+- functions/common-scripts.php
+- functions/home-cats.php
+- includes/breaking-news.php
+- includes/single-post-share.php
+- includes/post-share.php
+- css/shortcodes.php
+- images/jplayer folder
+- Added : includes/slider-category.php
+
+-------------------------------------------------------------------------
+
+Version 1.7.0 - 04-10-2012
+- Added : typography option for pages entry .
+- Added : display posts in slider from multiple categories .
+- Added : Persian language.
+- Improved : save options function .
+- Improved : ie8 issues  .
+- Improved : Responsive issues .
+- Fixed : height of thumbs bug in slider .
+- Fixed : Selection bug in custom slider .
+- Fixed : Missing http: in pinterest and linkedin share buttons .
+
+Files updated
+- style.css
+- rtl.css
+- css/ie8.css
+- functions/common-scripts.php
+- functions/theme-functions.php
+- panel/custom-slider.php
+- panel/mpanel-functions.php.
+- panel/mpanel-ui.php
+- includes/slider.php
+- includes/post-share
+- includes/single-post-share
+- js/jquery.eislideshow.js
+
+-------------------------------------------------------------------------
+
+Version 1.6.0 - 16-09-2012
+- Added : highlight Category in main navigation when browsing post in it .
+- Added : highlight parent page in main navigation when browsing a children page of it.
+- Improved : Elastic Slideshow when it display less than 5 posts .
+- Fixed : Custom Sidebars bug in post edit page .
+- Fixed : Post Head Bug in post edit page .
+- Fixed : Contents / excerpet bug in home recent box in Homepage .
+- Fixed : Post entry Typography settings bug .
+- Fixed : Comment link bug in recent commrnts widget .
+
+Files updated
+- style.css
+- includes/slider.php
+- functions/home-recent-box.php
+- functions/common-scripts.php
+- functions/theme-functions.php
+- panel/post-options.php
+- panel/js/tie.js
+- css/style-black.css
+- css/style-blue.css
+- css/style-green.css
+- css/style-pink.css
+- css/style-purple.css
+- css/style-red.css
+- css/style-yellow.css
+
+-------------------------------------------------------------------------
+
+Version 1.5.0 - 14-09-2012
+- Improved : Post Excerpt Functions .
+- Fixed : Minor bug .
+
+Files updated
+- loop.php
+- style.css
+- functions/home-cat-tabs.php
+- functions/home-cats.php
+- functions/home-recent-box.php
+- functions/theme-functions.php
+- includes/slider.php
+
+-------------------------------------------------------------------------
+
+Version 1.4.0 - 13-09-2012
+
+- Added : GoogleMap In page post Head .
+- Added : option to change links color in the post .
+- Added : option to change Excerpt Length .
+- Added : French language .
+- Added : Turkish language .
+- Improved : performance and speed of the theme .
+- Improved : Display the Empty categories in HomePage Builder .
+- Improved : Preview image in pinerest .
+- Improved : Get the post Thumbnail when share post in facebook or Google + .
+- Improved : Social Counter Widget .
+- Fixed : Full background Image Bug .
+- Fixed : Post Head Bug .
+- Fixed : Alternative Text bug For The banners.
+- Fixed : blockquote height bug .
+- Fixed : ADS accessible bug on firefox .
+- Fixed : tooltip css conflict with some plugins .
+
+-------------------------------------------------------------------------
+
+Version 1.3.0 - 05-09-2012
+
+- Added : Custom css class for excerpt more link .
+- Added : Post Head Module to all template pages .
+- Added : Blog List template page .
+- Added : option to choice more than one category in Breaking News Module .
+- Added : option to Display posts via Tags in Breaking News Module .
+- Added : Option to display excerpt or content in archives and homepage blog style .
+- Added : [feed] Shortcode to disply feeds in posts .
+- Added : [is_logged_in] Shortcode to display specific content to logged in users .
+- Added : [is_guest] Shortcode to display specific content to guests .
+- Added : [googlemap] Shortcode to display Google Maps in posts  .
+- Added : FeedBurner email newsletter widget .
+- Added : option To add Google map in The Post Head .
+- Added : Spanish language .
+- Added : Portuguese Brazil language .
+- Improved : Rtl.css .
+- Improved : Counter Widget .
+- Improved : Share Buttons on small devices .
+- Fixed : Login Widget bug .
+- Fixed : Search bug in Media Library .
+- Fixed : Full background bug .
+- Fixed : Post title bug in random posts widget .
+- Fixed : Author widgets bug in footer .
+- Fixed : Feature Image bug in post Head .
+- Fixed : Current Time zone bug in today date .
+- Fixed : Related Posts item height .
+- Fixed : Typography options bug .
+
+-------------------------------------------------------------------------
+
+Version 1.2.0 - 27-08-2012
+
+- Added : Shortcode support in text-html Widget and Custom Author bio widget. 
+- Added : Shortcode support in ADS Box in home Builder. 
+- Added : Option to Display Social share buttons in archives pages . 
+- Added : 8 new patterns . 
+- Added : Separated file to custom Functions. 
+- Added : sample Content xml file . 
+- Added : More Styling options . 
+- Added : option to Recent box to Display posts in normal Blog style . 
+- Added : login box to restrict content template . 
+- Added : login widget . 
+- Added : Login Page Template . 
+- Added : German / Italian languages . 
+- Added : Option to change the format of today date in top Navigation . 
+- Added : Custom slider 
+- Added : Option to Display Thumbnail image in single page and pages . 
+- Added : Single post and page slider option . 
+- Added : Jetpack Plugin compatibility . 
+- Added : Older Wordpress versions compatibility .
+- Improved : using mb_substr instead of substr . 
+- Improved : content_width of the theme . 
+- Improved : Use Jplayer with audio files . 
+- Improved : Date function . 
+- Improved : Pagenavi function . 
+- Improved : SEO . 
+- Improved : Dropdown menu for ipad portrait .
+- Fixed : Scrolling box height bug . 
+- Fixed : Sidebar Position in Single Posts. 
+- Fixed : Delete boxes bug in home Builder with Firefox . 
+- Fixed : Responsive bugs in RTL.css . 
+- Fixed : Media Uploader bug in Tiepanel . 
+- Fixed : Home dropdown menu background color . 
+
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 17-08-2012
+
+- Fixed : Responsive bug .
+- Fixed : Global sidebar position bug.
+- Fixed : Post link bug in popular posts widget and tabbed widget .
+- Fixed : Css bug for rtl blogs .
+
+-------------------------------------------------------------------------
+
+Version 1.0.0
+- First release
