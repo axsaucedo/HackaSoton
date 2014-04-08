@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="363.2555"
+     inkscape:cy="585.72653"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 283.32593,344.76703 c -2.64734,0.26885 -4.71875,2.53172 -4.71875,5.25 0,2.89949 2.35051,5.25 5.25,5.25 2.89949,0 5.25,-2.35051 5.25,-5.25 0,-2.89949 -2.35051,-5.25 -5.25,-5.25 -0.18122,0 -0.35476,-0.0179 -0.53125,0 z m 0.53125,2.9375 c 1.27716,0 2.3125,1.03534 2.3125,2.3125 0,1.27716 -1.03534,2.3125 -2.3125,2.3125 -1.27716,0 -2.3125,-1.03534 -2.3125,-2.3125 0,-1.27716 1.03534,-2.3125 2.3125,-2.3125 z"
+       id="path2989-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
+       x="344.0625"
+       y="470.11218"
+       id="text3017"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3019"
+         x="344.0625"
+         y="470.11218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;font-family:Lato;-inkscape-font-specification:Lato"
+         dx="0">Soton</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2999"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron"><flowRegion
+         id="flowRegion3001"><rect
+           id="rect3003"
+           width="148.5"
+           height="42.5"
+           x="199"
+           y="439.36218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Orbitron;-inkscape-font-specification:Orbitron" /></flowRegion><flowPara
+         id="flowPara3005">HackaH</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3007"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron"
+       transform="translate(11.516783,26.12611)"><flowRegion
+         id="flowRegion3009"><rect
+           id="rect3011"
+           width="154.25"
+           height="45"
+           x="188.5"
+           y="406.86218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Orbitron;-inkscape-font-specification:Orbitron" /></flowRegion><flowPara
+         id="flowPara3013">Hacka</flowPara></flowRoot>  </g>
+</svg>
